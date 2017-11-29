@@ -1,3 +1,9 @@
+---
+title: GIVE: Build your own genome browser
+author: Qiuyang
+header-includes:
+  - \usepackage{multicol}
+---
 # GIVE: Build your own genome browser
 
 GIVE  is an open source programming library that allows anyone with HTML programming experience to build custom genome browser websites or apps.  With a few lines of codes, one can add to a personal webpage an interactive genome browser that host custom data. It typically takes less than half a day to build a genome browser website with GIVE. 
@@ -24,6 +30,31 @@ Congratulations! You are seeing your first genome browser webpage. You can modif
 ****************
 
 ## Examples of custom genome browsers built with GIVE
+----------------
+
+\begin{multicols}{2}
+
+  \null \vfill
+  \includegraphics[width=.5\textwidth]{figures/give_singlecell.png}
+  \vfill \null
+
+\columnbreak
+
+  \null \vfill
+  \begin{itemize}
+    \item Single-cell transcriptome website
+  \end{itemize}
+  \vfill \null
+\end{multicols}
+
+----------------
+
+<div style="text-align:center" markdown="1">
+
+Single-cell transcriptome website
+<img align="right" width="50%" height="50%" border="2%" src="figures/give_singlecell.png">
+
+</div>
 ----------------
 
 Single-cell transcriptome website
