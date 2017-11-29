@@ -55,14 +55,17 @@ A website for genome-wide RNA-DNA interactions
 
 ----------------
 
-A website for displaying genome interaction (Capture Hi-C) data
+A website for displaying genome interaction 
+(Capture Hi-C) data
 <img align="right" width="50%" height="50%" border="2%" src="figures/give_hic1.png">
 -------------------------------------------------------------------------------------------------------------------------------------
 
 ----------------
 
-A website for displaying genome interaction (ChIA-PET) data
+A website for displaying genome interaction 
+(ChIA-PET) data
 <img align="right" width="50%" height="50%" border="2%" src="figures/give_chiapet.png">
+-------------------------------------------------------------------------------------------------------------------------------------
 
 ----------------
 
