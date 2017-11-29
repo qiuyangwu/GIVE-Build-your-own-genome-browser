@@ -1,3 +1,17 @@
+GIVE  is an open source programming library that allows anyone with HTML programming experience to build custom genome browser websites or apps.  With a few lines of codes, one can add to a personal webpage an interactive genome browser that host custom data. It typically takes less than half a day to build a genome browser website with GIVE. 
+This portable library encapsulates novel data communication and data visualization technologies, including new data structures and new memory management methods that enable efficient data transfer between the data-hosting website and internet browsers.  
+GIVE is the acronym of **G**enomic **I**nteraction **V**isualization **E**ngine, although GIVE's utilities have outgrown its original name.
+
+[GIVE Tutorial](https://github.com/Zhong-Lab-UCSD/Genomic-Interactive-Visualization-Engine/tree/master/tutorials)  | [GIVE Manual](https://github.com/Zhong-Lab-UCSD/Genomic-Interactive-Visualization-Engine/blob/master/manuals/index.md)
+------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------
+Example websites and line by line explanation.                                                                     | A full technical reference.                                                                                                         
+
+## [A 2-minute example](https://jsfiddle.net/frankyan/mcdng033/1/)
+![](https://drive.google.com/open?id=0B8SB9UP5ICNbVHlZVmM1M1FVbXc)
+![](https://drive.google.com/open?id=0B8SB9UP5ICNbVHlZVmM1M1FVbXc) | Just copy paste the two following lines to jsfiddle, an online HTML testing website for testing of your own HTML codes. 1) Go to  jsfiddle, 2) copy paste the following lines to the HTML panel (top left), 3) hit "run" button.
+Congratulations! You are seeing your first genome browser webpage. You can modify and change using HTML as your wish.
+--- | ---
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/qiuyangwu/GIVE_page/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
