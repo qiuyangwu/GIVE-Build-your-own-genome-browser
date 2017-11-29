@@ -1,9 +1,3 @@
----
-title: GIVE: Build your own genome browser
-author: Qiuyang
-header-includes:
-  - \usepackage{multicol}
----
 # GIVE: Build your own genome browser
 
 GIVE  is an open source programming library that allows anyone with HTML programming experience to build custom genome browser websites or apps.  With a few lines of codes, one can add to a personal webpage an interactive genome browser that host custom data. It typically takes less than half a day to build a genome browser website with GIVE. 
@@ -57,9 +51,8 @@ A website for genome-wide RNA-DNA interactions
 
 ----------------
 
-A website for displaying genome interaction 
+<img align="right" width="50%" height="50%" border="2%" src="figures/give_hic1.png"> A website for displaying genome interaction 
 (Capture Hi-C) data
-<img align="right" width="50%" height="50%" border="2%" src="figures/give_hic1.png">
 -------------------------------------------------------------------------------------------------------------------------------------
 
 ----------------
