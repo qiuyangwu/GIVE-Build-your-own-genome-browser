@@ -32,23 +32,6 @@ Congratulations! You are seeing your first genome browser webpage. You can modif
 ## Examples of custom genome browsers built with GIVE
 ----------------
 
-\begin{multicols}{2}
-
-  \null \vfill
-  \includegraphics[width=.5\textwidth]{figures/give_hic1.png}
-  \vfill \null
-
-\columnbreak
-
-  \null \vfill
-  \begin{itemize}
-    \item Single-cell transcriptome website
-  \end{itemize}
-  \vfill \null
-\end{multicols}
-
-----------------
-
 <div style="text-align:center" markdown="1">
 
 Single-cell transcriptome website
@@ -56,6 +39,7 @@ Single-cell transcriptome website
 
 </div>
 
+----------------
 <!--
 ----------------
 
