@@ -37,7 +37,9 @@ Single-cell transcriptome website
 
 ----------------
 
-A website for displaying genome interaction (Hi-C) data together with other data types.
+A website for displaying genome interaction 
+<br/>
+(Hi-C) data together with other data types.
 <img align="right" width="50%" height="50%" border="2%" src="figures/give_hic.png">
 -------------------------------------------------------------------------------------------------------------------------------------
 
