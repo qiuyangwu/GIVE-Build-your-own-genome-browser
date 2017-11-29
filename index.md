@@ -8,8 +8,8 @@ GIVE is the acronym of **G**enomic **I**nteraction **V**isualization **E**ngine,
 
 ## [A 2-minute example](https://jsfiddle.net/frankyan/mcdng033/1/)
 
-<img align="left" width="50%" height="50%" border="5" src="figures/2-minute_example.png">
-Just copy paste the two following lines to jsfiddle, an online HTML testing website for testing of your own HTML codes. 1) Go to  jsfiddle, 2) copy paste the following lines to the HTML panel (top left), 3) hit "run" button.
+<kbd><img align="left" width="50%" height="50%" border="5" src="figures/2-minute_example.png"></kbd>
+Just copy paste the two following lines to [jsfiddle](https://jsfiddle.net), an online HTML testing website for testing of your own HTML codes. 1) Go to  [jsfiddle](https://jsfiddle.net), 2) copy paste the following lines to the HTML panel (top left), 3) hit "run" button.
 Congratulations! You are seeing your first genome browser webpage. You can modify and change using HTML as your wish.
 ```
 <script src="https://www.givengine.org/libWC/webcomponents-lite.min.js"></script> 
