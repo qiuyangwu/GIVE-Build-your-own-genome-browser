@@ -31,13 +31,9 @@ Congratulations! You are seeing your first genome browser webpage. You can modif
 
 ## Examples of custom genome browsers built with GIVE
 ----------------
-
-<p float="center">
-
-Single-cell transcriptome website
-<img align="right" width="50%" height="50%" border="2%" src="figures/give_singlecell.png">
-
-</p>
++-----------------------------------+--------------------------------------------------------------------------------------------+
+| Single-cell transcriptome website | <img align="right" width="50%" height="50%" border="2%" src="figures/give_singlecell.png"> |
++-----------------------------------+--------------------------------------------------------------------------------------------+
 
 ----------------
 
