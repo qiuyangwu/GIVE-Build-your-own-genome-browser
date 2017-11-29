@@ -7,7 +7,8 @@ GIVE is the acronym of **G**enomic **I**nteraction **V**isualization **E**ngine,
 Example websites and line by line explanation.                                                                     | A full technical reference.                                                                                                         
 
 ## [A 2-minute example](https://jsfiddle.net/frankyan/mcdng033/1/)
-![](https://drive.google.com/open?id=0B8SB9UP5ICNbVHlZVmM1M1FVbXc)
+![2-minute example](/figures/2-minute_example.png)
+
 ![](https://drive.google.com/open?id=0B8SB9UP5ICNbVHlZVmM1M1FVbXc) | Just copy paste the two following lines to jsfiddle, an online HTML testing website for testing of your own HTML codes. 1) Go to  jsfiddle, 2) copy paste the following lines to the HTML panel (top left), 3) hit "run" button.
 Congratulations! You are seeing your first genome browser webpage. You can modify and change using HTML as your wish.
 --- | ---
