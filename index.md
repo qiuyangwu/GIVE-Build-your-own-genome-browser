@@ -40,14 +40,14 @@ Single-cell transcriptome website
 </div>
 
 ----------------
-<!--
-----------------
 
+----------------
+<div style="text-align:center" markdown="1">
 Single-cell transcriptome website
 <img align="right" width="50%" height="50%" border="2%" src="figures/give_singlecell.png">
-
+</div>
 ----------------
-
+<!--
 A website for displaying genome interaction (Hi-C) data together with other data types.
 <img align="right" width="50%" height="50%" border="2%" src="figures/give_hic.png">
 
