@@ -25,46 +25,46 @@ Congratulations! You are seeing your first genome browser webpage. You can modif
 
 ## Examples of custom genome browsers built with GIVE
 -------------------------------------------------------------------------------------------------------------------------------
-Single-cell transcriptome website  
+[Single-cell transcriptome website](https://singlecell.genemo.org)
 [<img align="right" width="50%" height="50%" border="2%" src="figures/give_singlecell.png">](https://singlecell.genemo.org)
 -------------------------------------------------------------------------------------------------------------------------------------
 
 ----------------
 
-A website for displaying genome interaction 
+[A website for displaying genome interaction 
 <br/>
-(Hi-C) data together with other data types.
-<img align="right" width="50%" height="50%" border="2%" src="figures/give_hic.png">
+(Hi-C) data together with other data types.](https://mcf7.givengine.org)
+[<img align="right" width="50%" height="50%" border="2%" src="figures/give_hic.png">](https://mcf7.givengine.org)
 -------------------------------------------------------------------------------------------------------------------------------------
 
 ----------------
 
-A web browser for human ENCODE datasets
-<img align="right" width="50%" height="50%" border="2%" src="figures/give_encode.png">
+[A web browser for human ENCODE datasets](https://encode.genemo.org)
+[<img align="right" width="50%" height="50%" border="2%" src="figures/give_encode.png">](https://encode.genemo.org)
 -------------------------------------------------------------------------------------------------------------------------------------
 
 ----------------
 
-A website for genome-wide RNA-DNA 
+[A website for genome-wide RNA-DNA 
 <br/>
-interactions
-<img align="right" width="50%" height="50%" border="2%" src="figures/give_RNAinteraction.jpg">
+interactions](https://margi.givengine.org)
+[<img align="right" width="50%" height="50%" border="2%" src="figures/give_RNAinteraction.jpg">](https://margi.givengine.org)
 -------------------------------------------------------------------------------------------------------------------------------------
 
 ----------------
 
-A website for displaying genome interaction 
+[A website for displaying genome interaction 
 <br/>
-(Capture Hi-C) data
-<img align="right" width="50%" height="50%" border="2%" src="figures/give_hic1.png">
+(Capture Hi-C) data](https://chic.givengine.org)
+[<img align="right" width="50%" height="50%" border="2%" src="figures/give_hic1.png">](https://chic.givengine.org)
 -------------------------------------------------------------------------------------------------------------------------------------
 
 ----------------
 
-A website for displaying genome interaction 
+[A website for displaying genome interaction 
 <br/>
-(ChIA-PET) data
-<img align="right" width="50%" height="50%" border="2%" src="figures/give_chiapet.png">
+(ChIA-PET) data](https://chiapet.givengine.org)
+[<img align="right" width="50%" height="50%" border="2%" src="figures/give_chiapet.png">](https://chiapet.givengine.org)
 -------------------------------------------------------------------------------------------------------------------------------------
 
 ----------------
