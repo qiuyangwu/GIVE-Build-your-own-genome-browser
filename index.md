@@ -35,7 +35,7 @@ Congratulations! You are seeing your first genome browser webpage. You can modif
 \begin{multicols}{2}
 
   \null \vfill
-  \includegraphics[width=.5\textwidth]{figures/give_singlecell.png}
+  \includegraphics[width=.5\textwidth]{figures/give_hic1.png}
   \vfill \null
 
 \columnbreak
@@ -55,6 +55,8 @@ Single-cell transcriptome website
 <img align="right" width="50%" height="50%" border="2%" src="figures/give_singlecell.png">
 
 </div>
+
+<!--
 ----------------
 
 Single-cell transcriptome website
@@ -92,4 +94,4 @@ Citation: Xiaoyi Cao, Zhangming Yan, Qiuyang Wu, Alvin Zheng, Sheng Zhong, Build
 ----------------
 
 © COPYRIGHT 2017 GIVE Authors. Code Licensed under the Apache License 2.0. Documentation licensed under CC BY 3.0. 
-
+-->
