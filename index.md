@@ -6,7 +6,7 @@ GIVE is the acronym of **G**enomic **I**nteraction **V**isualization **E**ngine,
 
 | [GIVE Tutorial](https://github.com/Zhong-Lab-UCSD/Genomic-Interactive-Visualization-Engine/tree/master/tutorials)  | [GIVE Manual](https://github.com/Zhong-Lab-UCSD/Genomic-Interactive-Visualization-Engine/blob/master/manuals/index.md) |
 |--------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
-| Example websites and line by line explanation.                                                                     | A full technical reference.                                                                                                |  
+| Example websites and line by line explanation.                                                                     | A full technical reference.                                                                                                |
 
 ## [A 2-minute example](https://jsfiddle.net/frankyan/mcdng033/1/)
 
@@ -45,19 +45,24 @@ A web browser for human ENCODE datasets
 
 ----------------
 
-A website for genome-wide RNA-DNA interactions
+A website for genome-wide RNA-DNA 
+<br/>
+interactions
 <img align="right" width="50%" height="50%" border="2%" src="figures/give_RNAinteraction.jpg">
 -------------------------------------------------------------------------------------------------------------------------------------
 
 ----------------
 
-<img align="right" width="50%" height="50%" border="2%" src="figures/give_hic1.png"> A website for displaying genome interaction 
+A website for displaying genome interaction 
+<br/>
 (Capture Hi-C) data
+<img align="right" width="50%" height="50%" border="2%" src="figures/give_hic1.png">
 -------------------------------------------------------------------------------------------------------------------------------------
 
 ----------------
 
 A website for displaying genome interaction 
+<br/>
 (ChIA-PET) data
 <img align="right" width="50%" height="50%" border="2%" src="figures/give_chiapet.png">
 -------------------------------------------------------------------------------------------------------------------------------------
