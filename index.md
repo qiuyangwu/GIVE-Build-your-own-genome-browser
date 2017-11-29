@@ -31,36 +31,33 @@ Congratulations! You are seeing your first genome browser webpage. You can modif
 
 ## Examples of custom genome browsers built with GIVE
 -------------------------------------------------------------------------------------------------------------------------------
- Single-cell transcriptome website  <img align="right" width="50%" height="50%" border="2%" src="figures/give_singlecell.png"> 
-                                                                                                                                    
--------------------------------------------------------------------------------------------------------------------------------
+Single-cell transcriptome website  
+<img align="right" width="50%" height="50%" border="2%" src="figures/give_singlecell.png"> 
+-------------------------------------------------------------------------------------------------------------------------------------
 
 ----------------
 
-----------------
-
-Single-cell transcriptome website
-<img align="right" width="50%" height="50%" border="2%" src="figures/give_singlecell.png">
-
--------------------------------------------------------------------------------------------------------------------------------
-<!--
 A website for displaying genome interaction (Hi-C) data together with other data types.
 <img align="right" width="50%" height="50%" border="2%" src="figures/give_hic.png">
+-------------------------------------------------------------------------------------------------------------------------------------
 
 ----------------
 
 A web browser for human ENCODE datasets
 <img align="right" width="50%" height="50%" border="2%" src="figures/give_encode.png">
+-------------------------------------------------------------------------------------------------------------------------------------
 
 ----------------
 
 A website for genome-wide RNA-DNA interactions
 <img align="right" width="50%" height="50%" border="2%" src="figures/give_RNAinteraction.jpg">
+-------------------------------------------------------------------------------------------------------------------------------------
 
 ----------------
 
 A website for displaying genome interaction (Capture Hi-C) data
 <img align="right" width="50%" height="50%" border="2%" src="figures/give_hic1.png">
+-------------------------------------------------------------------------------------------------------------------------------------
 
 ----------------
 
@@ -74,4 +71,3 @@ Citation: Xiaoyi Cao, Zhangming Yan, Qiuyang Wu, Alvin Zheng, Sheng Zhong, Build
 ----------------
 
 © COPYRIGHT 2017 GIVE Authors. Code Licensed under the Apache License 2.0. Documentation licensed under CC BY 3.0. 
--->
