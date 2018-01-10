@@ -4,3 +4,9 @@ description: Genomic Interaction Visualization Engine
 navbar-links:
   Tutorial: "https://github.com/Zhong-Lab-UCSD/Genomic-Interactive-Visualization-Engine/tree/master/tutorials"
   Manual: "https://github.com/Zhong-Lab-UCSD/Genomic-Interactive-Visualization-Engine/blob/master/manuals/index.md"
+  
+- title: "GIVE Tutorial"
+  href: "https://github.com/Zhong-Lab-UCSD/Genomic-Interactive-Visualization-Engine/tree/master/tutorials"
+
+- title: "GIVE Manual"
+  href: "https://github.com/Zhong-Lab-UCSD/Genomic-Interactive-Visualization-Engine/blob/master/manuals/index.md"
