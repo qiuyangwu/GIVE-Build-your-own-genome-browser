@@ -24,7 +24,7 @@ Congratulations! You are seeing your first genome browser webpage. You can modif
 
 <table>
   <tr>
-    <td width=400px>
+    <td width="400px">
       <a href="https://singlecell.genemo.org"><img src="figures/give_singlecell.png" width="400px"></a>
     </td>
     <td>
@@ -35,7 +35,7 @@ Congratulations! You are seeing your first genome browser webpage. You can modif
 
 <table>
   <tr>
-    <td width=400px>
+    <td width="400px">
       <a href="https://mcf7.givengine.org"><img src="figures/give_hic.png" width="400px"></a>
     </td>
     <td>
@@ -46,7 +46,7 @@ Congratulations! You are seeing your first genome browser webpage. You can modif
 
 <table>
   <tr>
-    <td width=400px>
+    <td width="400px">
       <a href="https://encode.genemo.org"><img src="figures/give_encode.png" width="400px"></a>
     </td>
     <td>
@@ -57,7 +57,7 @@ Congratulations! You are seeing your first genome browser webpage. You can modif
 
 <table>
   <tr>
-    <td width=400px>
+    <td width="400px">
       <a href="https://margi.givengine.org"><img src="figures/give_RNAinteraction.jpg" width="400px"></a>
     </td>
     <td>
@@ -68,7 +68,7 @@ Congratulations! You are seeing your first genome browser webpage. You can modif
 
 <table>
   <tr>
-    <td width=400px>
+    <td width="400px">
       <a href="https://chic.givengine.org"><img src="figures/give_hic1.png" width="400px"></a>
     </td>
     <td>
@@ -79,7 +79,7 @@ Congratulations! You are seeing your first genome browser webpage. You can modif
 
 <table>
   <tr>
-    <td width=400px>
+    <td width="400px">
       <a href="https://chiapet.givengine.org"><img src="figures/give_chiapet.png" width="400px"></a>
     </td>
     <td>
