@@ -21,49 +21,72 @@ Congratulations! You are seeing your first genome browser webpage. You can modif
 ****************
 
 ## Examples of custom genome browsers built with GIVE
--------------------------------------------------------------------------------------------------------------------------------
-[Single-cell transcriptome website](https://singlecell.genemo.org)
-[<img align="right" width="50%" height="50%" border="2%" src="figures/give_singlecell.png">](https://singlecell.genemo.org)
--------------------------------------------------------------------------------------------------------------------------------------
 
-----------------
+<table>
+  <tr>
+    <td width=400px>
+      <img src="figures/give_singlecell.png" width="400px">
+    </td>
+    <td>
+      [Single-cell transcriptome website](https://singlecell.genemo.org)
+    </td>
+  </tr>
+</table>
 
-[A website for displaying genome interaction 
-<br/>
-(Hi-C) data together with other data types.](https://mcf7.givengine.org)
-[<img align="right" width="50%" height="50%" border="2%" src="figures/give_hic.png">](https://mcf7.givengine.org)
--------------------------------------------------------------------------------------------------------------------------------------
+<table>
+  <tr>
+    <td>
+      [A website for displaying genome interaction (Hi-C) data together with other data types.](https://mcf7.givengine.org)
+    </td>
+    <td width=400px>
+      <img src="figures/give_hic.png" width="400px">
+    </td>
+  </tr>
+</table>
 
-----------------
+<table>
+  <tr>
+    <td width=400px>
+      <img src="figures/give_encode.png" width="400px">
+    </td>
+    <td>
+      [A web browser for human ENCODE datasets](https://encode.genemo.org)
+    </td>
+  </tr>
+</table>
 
-[A web browser for human ENCODE datasets](https://encode.genemo.org)
-[<img align="right" width="50%" height="50%" border="2%" src="figures/give_encode.png">](https://encode.genemo.org)
--------------------------------------------------------------------------------------------------------------------------------------
+<table>
+  <tr>
+    <td>
+      [A website for genome-wide RNA-DNA interactions](https://margi.givengine.org)
+    </td>
+    <td width=400px>
+      <img src="figures/give_RNAinteraction.jpg" width="400px">
+    </td>
+  </tr>
+</table>
 
-----------------
+<table>
+  <tr>
+    <td width=400px>
+      <img src="figures/give_hic1.png" width="400px">
+    </td>
+    <td>
+      [A website for displaying genome interaction (Capture Hi-C) data](https://chic.givengine.org)
+    </td>
+  </tr>
+</table>
 
-[A website for genome-wide RNA-DNA 
-<br/>
-interactions](https://margi.givengine.org)
-[<img align="right" width="50%" height="50%" border="2%" src="figures/give_RNAinteraction.jpg">](https://margi.givengine.org)
--------------------------------------------------------------------------------------------------------------------------------------
-
-----------------
-
-[A website for displaying genome interaction 
-<br/>
-(Capture Hi-C) data](https://chic.givengine.org)
-[<img align="right" width="50%" height="50%" border="2%" src="figures/give_hic1.png">](https://chic.givengine.org)
--------------------------------------------------------------------------------------------------------------------------------------
-
-----------------
-
-[A website for displaying genome interaction 
-<br/>
-(ChIA-PET) data](https://chiapet.givengine.org)
-[<img align="right" width="50%" height="50%" border="2%" src="figures/give_chiapet.png">](https://chiapet.givengine.org)
--------------------------------------------------------------------------------------------------------------------------------------
-
+<table>
+  <tr>
+    <td>
+      [A website for displaying genome interaction (ChIA-PET) data](https://chiapet.givengine.org)
+    </td>
+    <td width=400px>
+      <img src="figures/give_chiapet.png" width="400px">
+    </td>
+  </tr>
+</table>
 ----------------
 
 Citation: Xiaoyi Cao, Zhangming Yan, Qiuyang Wu, Alvin Zheng, Sheng Zhong, Building a genome browser with GIVE,  bioRxiv, 2017, [https://doi.org/10.1101/177832](https://doi.org/10.1101/177832).
