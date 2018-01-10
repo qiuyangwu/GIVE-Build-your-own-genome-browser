@@ -25,21 +25,10 @@ Congratulations! You are seeing your first genome browser webpage. You can modif
 <table>
   <tr>
     <td width=400px>
-      <img src="figures/give_singlecell.png" width="400px">
+      <a href="https://singlecell.genemo.org"><img src="figures/give_singlecell.png" width="400px"></a>
     </td>
     <td>
-      [Single-cell transcriptome website](https://singlecell.genemo.org)
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td>
-      [A website for displaying genome interaction (Hi-C) data together with other data types.](https://mcf7.givengine.org)
-    </td>
-    <td width=400px>
-      <img src="figures/give_hic.png" width="400px">
+      <a href="https://singlecell.genemo.org">Single-cell transcriptome website</a>
     </td>
   </tr>
 </table>
@@ -47,43 +36,54 @@ Congratulations! You are seeing your first genome browser webpage. You can modif
 <table>
   <tr>
     <td width=400px>
-      <img src="figures/give_encode.png" width="400px">
+      <a href="https://mcf7.givengine.org"><img src="figures/give_hic.png" width="400px"></a>
     </td>
     <td>
-      [A web browser for human ENCODE datasets](https://encode.genemo.org)
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td>
-      [A website for genome-wide RNA-DNA interactions](https://margi.givengine.org)
-    </td>
-    <td width=400px>
-      <img src="figures/give_RNAinteraction.jpg" width="400px">
-    </td>
+      <a href="https://mcf7.givengine.org">A website for displaying genome interaction (Hi-C) data together with other data types</a>
+    </td> 
   </tr>
 </table>
 
 <table>
   <tr>
     <td width=400px>
-      <img src="figures/give_hic1.png" width="400px">
+      <a href="https://encode.genemo.org"><img src="figures/give_encode.png" width="400px"></a>
     </td>
     <td>
-      [A website for displaying genome interaction (Capture Hi-C) data](https://chic.givengine.org)
+      <a href="https://encode.genemo.org">A web browser for human ENCODE datasets</a>
     </td>
   </tr>
 </table>
 
 <table>
   <tr>
-    <td>
-      [A website for displaying genome interaction (ChIA-PET) data](https://chiapet.givengine.org)
-    </td>
     <td width=400px>
-      <img src="figures/give_chiapet.png" width="400px">
+      <a href="https://margi.givengine.org"><img src="figures/give_RNAinteraction.jpg" width="400px"></a>
+    </td>
+    <td>
+      <a href="https://margi.givengine.org">A website for genome-wide RNA-DNA interactions</a>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width=400px>
+      <a href="https://chic.givengine.org"><img src="figures/give_hic1.png" width="400px"></a>
+    </td>
+    <td>
+      <a href="https://chic.givengine.org">A website for displaying genome interaction (Capture Hi-C) data</a>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width=400px>
+      <a href="https://chiapet.givengine.org"><img src="figures/give_chiapet.png" width="400px"></a>
+    </td>
+    <td>
+      <a href="https://chiapet.givengine.org">A website for displaying genome interaction (ChIA-PET) data</a>
     </td>
   </tr>
 </table>
