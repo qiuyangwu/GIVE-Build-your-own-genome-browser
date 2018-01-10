@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
 title: [GIVE&#58 Build your own genome browser]
-GIVE Tutorial: https://github.com/Zhong-Lab-UCSD/Genomic-Interactive-Visualization-Engine/tree/master/tutorials
+footer-links:
+  GIVE Tutorial: https://github.com/Zhong-Lab-UCSD/Genomic-Interactive-Visualization-Engine/tree/master/tutorials
