@@ -27,7 +27,7 @@ Congratulations! You are seeing your first genome browser webpage. You can modif
     <td width="400px">
       <a href="https://singlecell.genemo.org"><img src="figures/give_singlecell.png" width="400px"></a>
     </td>
-    <td>
+    <td width="600px">
       <a href="https://singlecell.genemo.org">Single-cell transcriptome website</a>
     </td>
   </tr>
@@ -38,7 +38,7 @@ Congratulations! You are seeing your first genome browser webpage. You can modif
     <td width="400px">
       <a href="https://mcf7.givengine.org"><img src="figures/give_hic.png" width="400px"></a>
     </td>
-    <td>
+    <td width="600px">
       <a href="https://mcf7.givengine.org">A website for displaying genome interaction (Hi-C) data together with other data types</a>
     </td> 
   </tr>
@@ -49,7 +49,7 @@ Congratulations! You are seeing your first genome browser webpage. You can modif
     <td width="400px">
       <a href="https://encode.genemo.org"><img src="figures/give_encode.png" width="400px"></a>
     </td>
-    <td>
+    <td width="600px">
       <a href="https://encode.genemo.org">A web browser for human ENCODE datasets</a>
     </td>
   </tr>
@@ -60,7 +60,7 @@ Congratulations! You are seeing your first genome browser webpage. You can modif
     <td width="400px">
       <a href="https://margi.givengine.org"><img src="figures/give_RNAinteraction.jpg" width="400px"></a>
     </td>
-    <td>
+    <td width="600px">
       <a href="https://margi.givengine.org">A website for genome-wide RNA-DNA interactions</a>
     </td>
   </tr>
@@ -71,7 +71,7 @@ Congratulations! You are seeing your first genome browser webpage. You can modif
     <td width="400px">
       <a href="https://chic.givengine.org"><img src="figures/give_hic1.png" width="400px"></a>
     </td>
-    <td>
+    <td width="600px">
       <a href="https://chic.givengine.org">A website for displaying genome interaction (Capture Hi-C) data</a>
     </td>
   </tr>
@@ -82,7 +82,7 @@ Congratulations! You are seeing your first genome browser webpage. You can modif
     <td width="400px">
       <a href="https://chiapet.givengine.org"><img src="figures/give_chiapet.png" width="400px"></a>
     </td>
-    <td>
+    <td width="600px">
       <a href="https://chiapet.givengine.org">A website for displaying genome interaction (ChIA-PET) data</a>
     </td>
   </tr>
