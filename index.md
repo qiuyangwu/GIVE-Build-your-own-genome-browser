@@ -35,10 +35,10 @@ Congratulations! You are seeing your first genome browser webpage. You can modif
 
 <table>
   <tr>
-    <td width="600px">
+    <td width="60%">
       <a href="https://mcf7.givengine.org">A website for displaying genome interaction (Hi-C) data together with other data types</a>
     </td> 
-    <td width="400px">
+    <td width="40%">
       <a href="https://mcf7.givengine.org"><img src="figures/give_hic.png" width="400px"></a>
     </td>
   </tr>
@@ -46,10 +46,10 @@ Congratulations! You are seeing your first genome browser webpage. You can modif
 
 <table>
   <tr>
-    <td width="600px">
+    <td width="60%">
       <a href="https://encode.genemo.org">A web browser for human ENCODE datasets</a>
     </td>
-    <td width="400px">
+    <td width="40%">
       <a href="https://encode.genemo.org"><img src="figures/give_encode.png" width="400px"></a>
     </td>
   </tr>
@@ -57,10 +57,10 @@ Congratulations! You are seeing your first genome browser webpage. You can modif
 
 <table>
   <tr>
-    <td width="600px">
+    <td width="60%">
       <a href="https://margi.givengine.org">A website for genome-wide RNA-DNA interactions</a>
     </td>
-    <td width="400px">
+    <td width="40%">
       <a href="https://margi.givengine.org"><img src="figures/give_RNAinteraction.jpg" width="400px"></a>
     </td>
   </tr>
@@ -68,10 +68,10 @@ Congratulations! You are seeing your first genome browser webpage. You can modif
 
 <table>
   <tr>
-    <td width="600px">
+    <td width="60%">
       <a href="https://chic.givengine.org">A website for displaying genome interaction (Capture Hi-C) data</a>
     </td>
-    <td width="400px">
+    <td width="40%">
       <a href="https://chic.givengine.org"><img src="figures/give_hic1.png" width="400px"></a>
     </td>
   </tr>
@@ -79,10 +79,10 @@ Congratulations! You are seeing your first genome browser webpage. You can modif
 
 <table>
   <tr>
-    <td width="600px">
+    <td width="60%">
       <a href="https://chiapet.givengine.org">A website for displaying genome interaction (ChIA-PET) data</a>
     </td>
-    <td width="400px">
+    <td width="40%">
       <a href="https://chiapet.givengine.org"><img src="figures/give_chiapet.png" width="400px"></a>
     </td>
   </tr>
