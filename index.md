@@ -24,10 +24,10 @@ Congratulations! You are seeing your first genome browser webpage. You can modif
 
 <table>
   <tr style="padding-bottom:10px;">
-    <td width="600px">
+    <td width="60%">
       <a href="https://singlecell.genemo.org">Single-cell transcriptome website</a>
     </td>
-    <td width="400px">
+    <td width="40%">
       <a href="https://singlecell.genemo.org"><img src="figures/give_singlecell.png" width="400px"></a>
     </td>
   </tr>
